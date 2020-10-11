@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Pandas - HeroesofPymoli</h3>
+<h3 align="center">Anti-cancer Analysis</h3>
 
 <div align="center">
 
@@ -28,7 +28,8 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Analyzing the data for the most recent fantasy game Heroes of Pymoli.Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience.
+Pymaceuticals specializes in anti-cancer pharmaceuticals. In its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
+In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -36,9 +37,9 @@ The code is written using jupyter notebook.
 
 
 ## ✍️ Observable Trends <a name = "trends"></a>
-From a data of 576 Players in the Heroes Of Pymoli game these were the trends observeved -
-- Percentage of male players are high at 84% subsequently Total Purchase Value were mainly from Male players.
-- Age Demographics trend shows more than 40% of players are between age groups 20-24.
+From the data of 249 mice identified these were the trends observeved -
+- Ramicane regimen permorfes as good as Capomulin regimen.
+- Ketapril regimen had little or no change in the tumor volume.
 - Most Popular item based on the Purchase is 'Final Critic' followed by 'Oathbreaker, Last Hope of the Breaking Storm'.
 
 What can be clearly seen in this Heroes Of PyMoly Fantansy game is the dominance of Male players of age between 20-24.
