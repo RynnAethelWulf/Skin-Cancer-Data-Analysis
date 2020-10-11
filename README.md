@@ -42,7 +42,7 @@ From the data of 249 mice identified these were the trends observeved -
 - Ketapril and Naftisol regimen increased the  tumor volume significantly.
 - Capomulin regimen has been more effective for female mice.
 
-What can be clearly seen in the  mices for Capomulin regimen between tumor volume and weight has positive slope - indicating as weight increase in mouse , the tumor volume increase linearly. There is higher correlation between tumoor volume and timepoint for Capomulin regimen.
+What can be clearly seen in the  mices for Capomulin regimen between tumor volume and weight has positive slope - indicating as weight increase in mouse , the tumor volume increase linearly. There is higher correlation between tumor volume and timepoint for Capomulin regimen.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - UWA Data Science
