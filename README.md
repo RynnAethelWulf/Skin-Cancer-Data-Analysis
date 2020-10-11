@@ -38,11 +38,11 @@ The code is written using jupyter notebook.
 
 ## ✍️ Observable Trends <a name = "trends"></a>
 From the data of 249 mice identified these were the trends observeved -
-- Ramicane regimen permorfes as good as Capomulin regimen.
-- Ketapril regimen had little or no change in the tumor volume.
-- Most Popular item based on the Purchase is 'Final Critic' followed by 'Oathbreaker, Last Hope of the Breaking Storm'.
+- Ramicane regimen performes as good as Capomulin regimen.
+- Ketapril and Naftisol regimen increased the  tumor volume significantly.
+- Capomulin regimen has been more effective for female mice.
 
-What can be clearly seen in this Heroes Of PyMoly Fantansy game is the dominance of Male players of age between 20-24.
+What can be clearly seen in the  mices for Capomulin regimen between tumor volume and weight has positive slope - indicating as weight increase in mouse , the tumor volume increase linearly. There is higher correlation between tumoor volume and timepoint for Capomulin regimen.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - UWA Data Science
