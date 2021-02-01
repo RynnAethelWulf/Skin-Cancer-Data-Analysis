@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center">  A report that breaks down the game's purchasing data into meaningful insights.
+<p align="center">  A report that breaks down the skin cancer regiments data into meaningful insights.
     <br> 
 </p>
 
